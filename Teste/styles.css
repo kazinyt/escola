@@ -1,3 +1,18 @@
 body{
-    background: rgb(0,255,255);
+    background: rgb(98, 197, 236);
 }
+header{
+    color: rgb(220, 24, 34);
+    border-bottom: solid 3px black;
+    margin: 15px;
+
+}
+.subtitulo{
+    font-size: xx-large;
+    color: rgb(239, 242, 239);
+    margin: 15px;
+
+
+}
+
+    
